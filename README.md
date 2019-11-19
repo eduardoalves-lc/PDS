@@ -2,7 +2,7 @@
 Data entrega: 23/11/2019. <br /> 
 Concluido coloca "OK" na frente de cada atividade para os demais saber o que ainda falta. <br /> 
 
-Responsabilidades:
+**Responsabilidades:**
 
 1 - Eduardo | Fazer correções imagem do tabuleiro <br /> 
 2 - Eduardo | Fazer dado girar <br /> 
