@@ -1,4 +1,5 @@
 # Trabalho Final de PDS
+Data entrega: 23/11/2019. Concluido coloca "OK" na frente de cada atividade para os demais saber o que ainda falta.
 Responsabilidades:
 
 1 - Eduardo | Fazer correções imagem do tabuleiro,
