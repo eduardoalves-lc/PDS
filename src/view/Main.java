@@ -8,6 +8,7 @@ public class Main {
 		PovoarCasasTabuleiro povoarTabuleiro = new PovoarCasasTabuleiro();
 		PovoarCartasTabuleiro povoarCartas = new PovoarCartasTabuleiro();
 		ControleJogo.getInstance().iniciarJogo();
+		//Teste
 	}
 	
 }
